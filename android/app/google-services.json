@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "7116938626",
+    "firebase_url": "https://todosapp-b8fa2.firebaseio.com",
+    "project_id": "todosapp-b8fa2",
+    "storage_bucket": "todosapp-b8fa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7116938626:android:f71895c7de71243253839b",
+        "android_client_info": {
+          "package_name": "com.example.todosapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7116938626-e3fbtcuhqap19tiac4hv5nvdkjs4q5p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCODXVal-eKCzR481psrxqS3uuOanFFEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7116938626-e3fbtcuhqap19tiac4hv5nvdkjs4q5p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
